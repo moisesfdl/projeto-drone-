@@ -12,4 +12,5 @@ outra ideia e contruir um sub motor pra manobra de giro com movimento pnematico 
 
 construir um catalizador de energia nos motores do drone , na capa interna produzir uma externa com outra bobina catalizando o calor e filtrando e catalizando pra bateria , 
 
-outra ideia , seria um sistema de refrigera�ao , com placa de catalizadores , canalizando pra filtragem e tentar transforma calor em energia , nao pode incorpar o drone , tem que transforma em micro <<
+outra ideia , seria um sistema de refrigera�ao , com placa de catalizadores , canalizando pra filtragem e tentar transforma calor em energia , 
+nao pode incorpar o drone , tem que transforma em micro ou nano  <<
