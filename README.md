@@ -13,4 +13,6 @@ outra ideia e contruir um sub motor pra manobra de giro com movimento pnematico 
 construir um catalizador de energia nos motores do drone , na capa interna produzir uma externa com outra bobina catalizando o calor e filtrando e catalizando pra bateria , 
 
 outra ideia , seria um sistema de refrigera�ao , com placa de catalizadores , canalizando pra filtragem e tentar transforma calor em energia , 
-nao pode incorpar o drone , tem que transforma em micro ou nano  <<
+nao pode incorpar o drone , tem que transforma em micro ou nano  <<pra aumentar o tempo de funcionamento do drone<<
+
+a ideia de flutuar e melhor do que a ideia da elice por que pode machucar animais ou ate machucar uma pessoa ou colocar um protetor na elice melhor
